@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:17:33.263639
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 9:23
 #+TITLE: 佛說報恩奉盆經
 #+PROPERTY: CBETA_ID T16n0686
 #+PROPERTY: ID KR6i0376
